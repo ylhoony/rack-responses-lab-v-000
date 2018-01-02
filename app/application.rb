@@ -9,7 +9,7 @@ class Application
       res.write "Morning"
     else
       res.write "Afternoon"
-    else
+    end
     res.finish
   end
 
